@@ -1,2 +1,3 @@
 # TIPE_SST
-Projet en cours de réécriture ici seulement 10% disponible
+
+Projet d'"exploration" réalisé en 2019 dans le cadre d'un TIPE (thème: Océans). Le projet vise à trouver différentes méthodes d'analyse, de reconstruction et de prédiction de données de températures océaniques. Pour cela je ms uis basé sur une DB de NOAA. 
